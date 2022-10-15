@@ -1,0 +1,10 @@
+{
+  "tech-news": [
+    {
+      "type": "category",
+      "label": "Tech News",
+      "collapsed": false,
+      "items": ["tech-news-overview"]
+    }
+  ]
+}

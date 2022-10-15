@@ -1,0 +1,30 @@
+version: '3'
+services:
+  web:
+    build: .
+    # 指定 Dockerfile 文件的位置
+    # dockerfile: Dockerfile
+    # 构建参数，只能在构建过程中访问的环境变量
+    # args:
+    #   - BUILD_DATE=${BUILD_DATE}
+    #   - VCS_REF=${VCS_REF}
+    #   - VERSION=${VERSION}
+    # 构建镜像的标签
+    # labels:
+    #   - "com.host.description=label"
+    # 多层构建，可以指定构建哪一层
+    # target: dev
+    # 自定义容器名称，可选
+    container_name: my-web-container
+    ports:
+      - "5000:5000"
+    # expose:
+    #   - "3000"
+    #   - "8000"
+    depends_on:
+      # - db
+      - redis
+  # db:
+  #   image: postgres
+  redis:
+    image: "redis:alpine"

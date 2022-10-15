@@ -1,0 +1,37 @@
+{
+  "code-snippets": [
+    {
+      "type": "category",
+      "label": "Python",
+      "collapsed": false,
+      "items": [
+        "python-type",
+        "python-typing",
+        "python-dict",
+        "python_errors-exceptions",
+        "pydantic",
+        "pymongo",
+        "fastapi",
+        "miscellaneous"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "React",
+      "collapsed": false,
+      "items": ["react-typescript"]
+    },
+    {
+      "type": "category",
+      "label": "Shell",
+      "collapsed": false,
+      "items": ["curl-tutorial"]
+    },
+    {
+      "type": "category",
+      "label": "TypeScript",
+      "collapsed": false,
+      "items": ["typescript-tips", "tsconfig"]
+    }
+  ]
+}

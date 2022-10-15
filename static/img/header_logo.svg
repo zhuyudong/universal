@@ -1,0 +1,327 @@
+;<svg
+  height="100%"
+  version="1.1"
+  width="100%"
+  xmlns="http://www.w3.org/2000/svg"
+  preserveAspectRatio="xMidYMid meet"
+  viewBox="0 0 600 442"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Created with Snap</desc>
+  <defs />
+  <g id="root" contentwidth="223" contentheight="125">
+    <rect
+      class="background"
+      height="2000%"
+      width="2000%"
+      y="-1000%"
+      x="-1000%"
+      style=""
+      fill="#1e1e1e"
+    />
+    <g class="content" id="content" transform="matrix(1,0,0,1,133.5,34.5)">
+      <g class="icon">
+        <svg
+          height="67"
+          version="1.1"
+          width="67"
+          xmlns="http://www.w3.org/2000/svg"
+          x="107"
+          y="124"
+          preserveAspectRatio="none"
+          transform="matrix(1,0,0,1,0,0)"
+        >
+          <desc>Created with Snap</desc>
+          <defs />
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="186 144 67 67">
+            <defs>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-laB-linearGradient-1"
+              >
+                <stop stop-color="#FFB900" offset="0%" />
+                <stop stop-color="#FF8300" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="-17%"
+                y2="111%"
+                id="prefix-laB-linearGradient-2"
+              >
+                <stop stop-color="#FF56CE" offset="0%" />
+                <stop stop-color="#DE368E" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-laB-linearGradient-3"
+              >
+                <stop stop-color="#C1F256" offset="0%" />
+                <stop stop-color="#8DE02B" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-laB-linearGradient-4"
+              >
+                <stop stop-color="#0ED5FF" offset="0%" />
+                <stop stop-color="#06ABFF" offset="100%" />
+              </linearGradient>
+            </defs>
+            <path
+              d="M219.343 144C237.931 144 253 159.067 253 177.654c0 18.586-15.069 33.654-33.657 33.654-18.588 0-33.656-15.068-33.656-33.654 0-18.587 15.068-33.654 33.656-33.654Zm-6.01 19.23c-11.285 0-20.434 9.149-20.434 20.433 0 11.285 9.149 20.433 20.434 20.433 11.286 0 20.435-9.148 20.435-20.433 0-11.284-9.15-20.432-20.435-20.432Z"
+              id="prefix-laB-形状结合"
+              fill="url(#prefix-laB-linearGradient-1)"
+            />
+          </svg>
+        </svg>
+        <svg
+          height="67"
+          version="1.1"
+          width="67"
+          xmlns="http://www.w3.org/2000/svg"
+          x="55"
+          y="182"
+          preserveAspectRatio="none"
+          transform="matrix(1,0,0,1,0,0)"
+        >
+          <desc>Created with Snap</desc>
+          <defs />
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="134 202 67 67">
+            <defs>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-ZtK-linearGradient-1"
+              >
+                <stop stop-color="#FFB900" offset="0%" />
+                <stop stop-color="#FF8300" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="-17%"
+                y2="111%"
+                id="prefix-ZtK-linearGradient-2"
+              >
+                <stop stop-color="#FF56CE" offset="0%" />
+                <stop stop-color="#DE368E" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-ZtK-linearGradient-3"
+              >
+                <stop stop-color="#C1F256" offset="0%" />
+                <stop stop-color="#8DE02B" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-ZtK-linearGradient-4"
+              >
+                <stop stop-color="#0ED5FF" offset="0%" />
+                <stop stop-color="#06ABFF" offset="100%" />
+              </linearGradient>
+            </defs>
+            <path
+              d="M167.657 201.692c18.588 0 33.656 15.068 33.656 33.654 0 18.587-15.068 33.654-33.656 33.654S134 253.933 134 235.346c0-18.586 15.069-33.654 33.657-33.654Zm6.01 7.212c-11.286 0-20.435 9.148-20.435 20.433 0 11.284 9.15 20.432 20.435 20.432 11.285 0 20.434-9.148 20.434-20.432 0-11.285-9.149-20.433-20.434-20.433Z"
+              id="prefix-ZtK-形状结合"
+              fill="url(#prefix-ZtK-linearGradient-2)"
+            />
+          </svg>
+        </svg>
+        <svg
+          height="24"
+          version="1.1"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+          x="120"
+          y="155"
+          preserveAspectRatio="none"
+          transform="matrix(1,0,0,1,0,0)"
+        >
+          <desc>Created with Snap</desc>
+          <defs />
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="199 175 24 24">
+            <defs>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-BDt-linearGradient-1"
+              >
+                <stop stop-color="#FFB900" offset="0%" />
+                <stop stop-color="#FF8300" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="-17%"
+                y2="111%"
+                id="prefix-BDt-linearGradient-2"
+              >
+                <stop stop-color="#FF56CE" offset="0%" />
+                <stop stop-color="#DE368E" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-BDt-linearGradient-3"
+              >
+                <stop stop-color="#C1F256" offset="0%" />
+                <stop stop-color="#8DE02B" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-BDt-linearGradient-4"
+              >
+                <stop stop-color="#0ED5FF" offset="0%" />
+                <stop stop-color="#06ABFF" offset="100%" />
+              </linearGradient>
+            </defs>
+            <circle
+              id="prefix-BDt-椭圆形"
+              fill="url(#prefix-BDt-linearGradient-3)"
+              cx="211"
+              cy="187"
+              r="12"
+            />
+          </svg>
+        </svg>
+        <svg
+          height="34"
+          version="1.1"
+          width="34"
+          xmlns="http://www.w3.org/2000/svg"
+          x="67"
+          y="143"
+          preserveAspectRatio="none"
+          transform="matrix(1,0,0,1,0,0)"
+        >
+          <desc>Created with Snap</desc>
+          <defs />
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="146 163 34 34">
+            <defs>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-lhA-linearGradient-1"
+              >
+                <stop stop-color="#FFB900" offset="0%" />
+                <stop stop-color="#FF8300" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="-17%"
+                y2="111%"
+                id="prefix-lhA-linearGradient-2"
+              >
+                <stop stop-color="#FF56CE" offset="0%" />
+                <stop stop-color="#DE368E" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-lhA-linearGradient-3"
+              >
+                <stop stop-color="#C1F256" offset="0%" />
+                <stop stop-color="#8DE02B" offset="100%" />
+              </linearGradient>
+              <linearGradient
+                x1="50%"
+                y1="0%"
+                x2="50%"
+                y2="100%"
+                id="prefix-lhA-linearGradient-4"
+              >
+                <stop stop-color="#0ED5FF" offset="0%" />
+                <stop stop-color="#06ABFF" offset="100%" />
+              </linearGradient>
+            </defs>
+            <path
+              d="M162.848 163.23c9.294 0 16.829 7.534 16.829 16.828 0 9.293-7.535 16.827-16.829 16.827s-16.828-7.534-16.828-16.827c0-9.294 7.534-16.827 16.828-16.827Zm4.208 12.02a9.015 9.015 0 1 0 0 18.029 9.015 9.015 0 1 0 0-18.029Z"
+              id="prefix-lhA-形状结合"
+              fill="url(#prefix-lhA-linearGradient-4)"
+            />
+          </svg>
+        </svg>
+      </g>
+      <g id="icon_name_and_slogan_gap"></g>
+      <g class="name_and_slogan" id="name_and_slogan_id">
+        <g class="name">
+          <g id="nameDefaultGroup">
+            <path
+              d="M151.7 213.6 L142.3 222.4 L151.7 234.4 L144 234.4 L136.8 224.8 L136.8 234.4 L130.2 234.4 L130.2 204.7 L136.8 204.7 L136.8 220.2 L144 213.6 L151.7 213.6 M171.8 234.5 L157.7 234.5 L157.7 213.6 L164.6 213.6 L164.6 229.4 L171.1 229.4 L171.1 213.6 L177.9 213.6 L177.9 228.1 Q177.9 230.7 177.2 232.1 Q176.5 233.5 175.2 234 Q173.9 234.5 171.8 234.5 M198.5 234.5 L198.5 218.8 L191.4 218.8 L191.4 234.5 L184.8 234.5 L184.8 213.6 L205 213.6 L205 234.5 L198.5 234.5 M223.6 234.4 L220.3 234.4 Q217.6 234.4 215.9 233.8 Q214.2 233.2 213.3 231.3 Q212.4 229.5 212.4 226.1 L212.4 204.8 L219.1 204.8 L219.1 227.3 L223.6 227.3 L223.6 234.4 M244.8 234.5 L230.7 234.5 L230.7 213.6 L237.6 213.6 L237.6 229.4 L244.1 229.4 L244.1 213.6 L250.9 213.6 L250.9 228.1 Q250.9 230.7 250.2 232.1 Q249.5 233.5 248.2 234 Q246.9 234.5 244.8 234.5 M271.5 234.5 L271.5 218.8 L264.4 218.8 L264.4 234.5 L257.8 234.5 L257.8 213.6 L278 213.6 L278 234.5 L271.5 234.5 "
+              style=""
+              fill="#ffffff"
+              transform="matrix(1,0,0,1,0,0)"
+            />
+          </g>
+        </g>
+        <g class="slogan">
+          <g id="sloganDefaultGroup" />
+        </g>
+      </g>
+      <g class="border"></g>
+    </g>
+
+    <defs id="defs">
+      <mask xmlns="http://www.w3.org/2000/svg" id="mask">
+        <rect
+          id="showAll"
+          fill="white"
+          x="55"
+          y="124"
+          width="119"
+          height="125"
+        />
+        <rect
+          id="hideNameBg"
+          fill="black"
+          x="0"
+          y="0"
+          width="0"
+          height="0"
+          stroke-width="2"
+          stroke="black"
+        />
+        <rect
+          id="hideSloganBg"
+          fill="black"
+          x="0"
+          y="0"
+          width="0"
+          height="0"
+          stroke-width="2"
+          stroke="black"
+        />
+      </mask>
+    </defs>
+  </g>
+</svg>

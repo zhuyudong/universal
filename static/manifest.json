@@ -1,0 +1,52 @@
+{
+  "name": "Documentation",
+  "short_name": "Documatation",
+  "description": "Write here, learn it anywhere",
+  "theme_color": "#20232a",
+  "background_color": "#20232a",
+  "display": "minimal-ui",
+  "orientation": "any",
+  "scope": "./",
+  "start_url": "./index.html",
+  "id": "./index.html",
+  "shortcuts": [
+    {
+      "name": "Opensource & Tools",
+      "short_name": "Docs",
+      "url": "/opensource-tools/writing",
+      "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Tech News",
+      "short_name": "News",
+      "url": "/tech-news/overview",
+      "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Blog",
+      "short_name": "Blog",
+      "url": "/blog",
+      "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Proverbs",
+      "short_name": "Proverbs",
+      "url": "/docs/next/proverbs",
+      "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "icons": [
+    {
+      "src": "img/pwa/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "img/pwa/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

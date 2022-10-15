@@ -1,0 +1,7 @@
+.sidebarItemTitle {
+  margin: 0.75rem 0 0.5rem;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  color: var(--subtle);
+  border-bottom: 0.01rem solid var(--ifm-table-border-color);
+}

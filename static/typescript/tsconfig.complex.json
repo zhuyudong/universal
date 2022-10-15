@@ -1,0 +1,132 @@
+{
+  "include": [],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    /* Type Checking */
+    "allowUnreachableCode": false, // undefined|true|false
+    "allowUnusedLabels": true, // undefined|true|false
+    // "alwaysStrict": true, // Related: strict
+    // "exactOptionalPropertyTypes": undefined,
+    // "noFallthroughCasesInSwitch": undefined,
+    // "noImplicitAny": true, // Related: strict
+    // "noImplicitOverride": undefined,
+    // "noImplicitReturns": undefined,
+    // "noImplicitThis": true, // Related: strict
+    // "noPropertyAccessFromIndexSignature": undefined,
+    // "noUncheckedIndexedAccess": undefined,
+    // "noUnusedLocals": undefined,
+    // "noUnusedParameters": undefined,
+    "strict": true, // Related: alwaysStrict strictNullChecks strictBindCallApply strictFunctionTypes strictPropertyInitialization noImplicitAny noImplicitThis useUnknownInCatchVariables
+    // "strictBindCallApply": true, // Related: strict
+    // "strictFunctionTypes": true, // Related: strict
+    // "strictNullChecks": true, // Related: strict
+    "strictPropertyInitialization": false, // Related: strict
+    // "useUnknownInCatchVariables": true, // Related: strict
+
+    /* Modules */
+    "allowUmdGlobalAccess": true,
+    "baseUrl": ".",
+    "module": "commonjs", // Related: moduleResolution
+    "moduleResolution": "node", // Related: module
+    // "noResolve": undefined,
+    // "paths": {},
+    "resolveJsonModule": true,
+    // "rootDir": "",
+    // "rootDirs": [],
+    // "typeRoots": [], // Related: types
+    // "types": [], // Related: typeRoots
+
+    /* Emit */
+    "declaration": true, // Related: declarationDir emitDeclarationOnly
+    // "declarationDir": undefined, // Related: declaration
+    // "declarationMap": undefined,
+    // "downlevelIteration": undefined, // Related: importHelpers
+    // "emitBOM": undefined,
+    "emitDeclarationOnly": false, // Only emit .d.ts files; do not emit .js files. Related: declaration
+    // "importHelpers": undefined, // Related: noEmitHelpers downlevelIteration
+    // "importsNotUsedAsValues": "remove",
+    // "inlineSourceMap": undefined,
+    // "inlineSources": undefined,
+    // "mapRoot": "",
+    // "newLine": "", // CRLF|LF
+    // "noEmit": false, // Do not emit compiler output files like JavaScript source code, source-maps or declarations.
+    // "noEmitHelpers": undefined, // Related: importHelpers
+    // "noEmitOnError": undefined,
+    // "outDir": undefined, // Related: out
+    // "outFile": undefined, // Related: out
+    // "preserveConstEnums": true,
+    // "preserveValueImports": undefined, // Related: isolatedModules importsNotUsedAsValues
+    // "removeComments": false,
+    "sourceMap": true,
+    // "sourceRoot": undefined,
+    // "stripInternal": undefined,
+
+    /* JavaScript Support */
+    "allowJs": true, // Related: checkJs emitDeclarationOnly
+    // "checkJs": false, // Related: allowJs emitDeclarationOnly
+    // "maxNodeModuleJsDepth": 0,
+
+    /* Editor Support */
+    // "disableSizeLimit": undefined,
+    // "plugins": [], // ts-sql-plugin typescript-styled-plugin typescript-eslint-language-service ts-graphql-plugin
+
+    /* Interop Constraints */
+    // "allowSyntheticDefaultImports": true, // Related: esModuleInterop
+    "esModuleInterop": true, // Related: allowSyntheticDefault
+    // "forceConsistentCasingInFileNames": undefined,
+    "isolatedModules": true,
+    // "preserveSymlinks": undefined,
+
+    /* Backwards Compatibility */
+    // "charset": "urf8", // Deprecated
+    // "keyofStringsOnly": false, // Deprecated
+    // "noImplicitUseStrict": undefined,
+    // "noStrictGenericChecks": undefined,
+    // "out": undefined, // Deprecated
+    // "suppressExcessPropertyErrors": undefined,
+    // "suppressImplicitAnyIndexErrors": undefined, // Related: noImplictAny
+
+    /* Language and Environment */
+    "emitDecoratorMetadata": true, // Related: experimentalDecorators
+    "experimentalDecorators": true, // Related: emitDecoratorMetadata
+    "jsx": "react-jsx", // @see react|react-jsx|react-jsxdev|preserve|react-native
+    // "jsxFactory": "React.createElement", // Related: jsx jsxFragmentFactory jsxImportSource
+    // "jsxFragmentFactory": undefined, // Related: jsx jsxFactory jsxImportSource
+    // "jsxImportSource": "React",  // Related: jsx jsxFactory
+    // "lib": undefined, // Related: noLib
+    // "noLib": false,  // Related: lib
+    // "reactNamespace": "React",
+    "target": "ESNext", // @default "ES3" es5 es6/ES2015 ES2017 ES2018 ES2019 ES2020 ES2021 ES2022 ESNext
+    // "useDefineForClassFields": true,
+
+    /* Compiler Diagnostics */
+    // "diagnostics": undefined, // Deprecate Related: extendedDiagnostics
+    // "explainFiles": undefined,
+    // "extendedDiagnostics": false, // Related: diagnostics
+    // "generateCpuProfile": "profile.cpuprofile",
+    // "listEmittedFiles": undefined,
+    // "listFiles": false, // Related: explainFiles
+    // "traceResolution": undefined,
+
+    /* Projects */
+    // "composite": true, // Related: incremental tsBuildInfoFile
+    // "disableReferencedProjectLoad": undefined,
+    // "disableSolutionSearching": undefined,
+    // "disableSourceOfProjectReferenceRedirect": undefined,
+    // "incremental": true, // Related: composite tsBuildInfoFile
+    // "tsBuildInfoFile": ".tsbuildinfo", // Related: incremental composite
+
+    /* Output Formatting */
+    // "noErrorTruncation": false,
+    // "preserveWatchOutput": undefined,
+    // "pretty": true,
+
+    /* Completeness */
+    // "skipDefaultLibCheck": undefined,
+    "skipLibCheck": true
+
+    /* Command Line*/
+
+    /* Watch Options */
+  }
+}

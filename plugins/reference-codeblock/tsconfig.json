@@ -1,0 +1,24 @@
+{
+  "extends": "@tsconfig/docusaurus/tsconfig.json",
+  "exclude": ["tests", "build"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "commonjs",
+    "target": "ES2015",
+    "lib": ["ES2018", "ES2019.Array", "DOM"],
+    "jsx": "react-jsx",
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "types": ["node", "jest"],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "rootDir": "src",
+    "noEmit": false,
+    "outDir": "build"
+  }
+}

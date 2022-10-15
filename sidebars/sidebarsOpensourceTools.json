@@ -1,0 +1,14 @@
+{
+  "opensource-tools": [
+    "ci-cd",
+    "note-software",
+    "css-in-js",
+    "code-snippets-manager",
+    "react-components",
+    "react-state-management",
+    "deploy-platform",
+    "python-common",
+    "software-download_recommand",
+    "typescript-resources"
+  ]
+}
